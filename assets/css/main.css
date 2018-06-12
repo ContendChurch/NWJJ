@@ -3817,6 +3817,10 @@
 		padding: 20px;
 	}
 
+	.spotlight .image.medium {
+		width: 30%;
+	}
+
 	.scripture-container {
 		margin: 0 auto;
 		max-width: 70%;
